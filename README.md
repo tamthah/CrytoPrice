@@ -37,7 +37,7 @@ Since the app relies on fetching data from an external API, make sure you have a
   - 24-hour percentage change in price
 
 ## Screenshot
-![Crypto Price App](images/demo.png) *(Add an actual screenshot here)*
+![Crypto Price App](screenshot.jpg)
 
 ## Future Improvements
 - Add more cryptocurrencies.
