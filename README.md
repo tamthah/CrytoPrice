@@ -49,4 +49,4 @@ Since the app relies on fetching data from an external API, make sure you have a
 This project is licensed under the **MIT License**.
 
 ## Author
-Developed by **[Your Name]** (Replace with your actual name).
+Developed by **[Thi Nguyen]**
